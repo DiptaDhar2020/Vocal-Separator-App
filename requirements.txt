@@ -1,7 +1,5 @@
-streamlit==1.32.0
-audio-separator==0.17.0
-torch==2.9.0
-onnxruntime==1.16.0
-librosa==0.10.1
-numpy==1.24.3
-soundfile==0.12.1
+streamlit>=1.32.0
+audio-separator>=0.17.0
+librosa>=0.10.1
+numpy>=1.24.3,<2.0.0
+soundfile>=0.12.1
